@@ -1,6 +1,6 @@
 var age = 22;
 
-if(age > 18){
+if(age >= 18){
   console.log("YOU ARE A VOTER NOW");
  }
 else{
